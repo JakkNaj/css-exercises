@@ -1,0 +1,19 @@
+.num1 {
+    background-color: lightcoral;
+    font-family: 'Verdana', "DejaVu Sans", sans-serif;
+}
+
+#num2id {
+    color: blue;
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#num4id {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
